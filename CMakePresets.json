@@ -114,7 +114,7 @@
         "WITH_REDUCED_VISIBILITY" : "ON",
         "WITH_HEADER_COMPRESSION" : "ON",
         "WITH_LIBSHARPYUV" : "ON",
-        "WITH_EXAMPLES": "ON",
+        "WITH_EXAMPLES": "OFF",
         "WITH_FUZZERS": "OFF"
       }
     },
@@ -152,7 +152,7 @@
         "WITH_REDUCED_VISIBILITY" : "ON",
         "WITH_HEADER_COMPRESSION" : "OFF",
         "WITH_LIBSHARPYUV" : "ON",
-        "WITH_EXAMPLES": "ON",
+        "WITH_EXAMPLES": "OFF",
         "WITH_FUZZERS": "OFF"
       }
     },
